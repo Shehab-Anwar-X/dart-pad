@@ -101,3 +101,14 @@ Enforcing the Dart type system: Although most type checks in Dart are static (co
 Managing isolates: The Dart runtime controls the main isolate (where code normally runs) and any other isolates that the app creates.
 
 On native platforms, the Dart runtime is automatically included inside self-contained executables, and is part of the Dart VM provided by the dart run command.
+
+
+# Comments
+
+Comments are the lines of non-executable code. They are one of the main aspects of all programming languages. The purpose of this is to provide information about the project, variable, or an operation.
+
+Dart have 3 types of comments
+
+- **Make format comments:** It is a single line comment (//)
+- **Block Comments:** It is a multi-line comment (/*...*/)
+- **Doc Comments:** It is a document comment that used for member and types (///)
