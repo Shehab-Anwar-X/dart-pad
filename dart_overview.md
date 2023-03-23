@@ -26,7 +26,7 @@ Examples: Perl, Ruby, Python, PHP, JavaScript, Erlang
 Most scripting languages have this feature as there is no compiler to do static type-checking anyway, but you may find yourself searching for a bug that is due to the interpreter misinterpreting the type of a variable. Luckily, scripts tend to be small so bugs have not so many places to hide.
 Most dynamically typed languages do allow you to provide type information, but do not require it. One language that is currently being developed, Rascal, takes a hybrid approach allowing dynamic typing within functions but enforcing static typing for the function signature.
 
-`This answer is from The Stack Overflow ,see` [The Stack Overflow Answer](https://www.github.com/octokatherine](https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages?fbclid=IwAR1FqTZa6SGndz9gpvdZSwxpvdograt_9DsWVROPjeP1E-0VfXhJTInqHqo)
+`This answer is from The Stack Overflow ,see` [The Stack Overflow Answer](https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages?fbclid=IwAR1FqTZa6SGndz9gpvdZSwxpvdograt_9DsWVROPjeP1E-0VfXhJTInqHqo)
 
 
 # Null Safety
