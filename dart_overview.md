@@ -7,8 +7,6 @@ It supports application development in both client and server-side. But it is wi
 Dart inspired by other programming languages such as Java, JavaScript, C#, and is Strongly Typed. Since Dart is a compiled language so you cannot execute your code directly; instead, the compiler parses it and transfer it into machine code.
 
 
-# Dart Language Features
-
 `The dart language is type safe it's use statically typed checking. `
 
 # Static Type Checking?
